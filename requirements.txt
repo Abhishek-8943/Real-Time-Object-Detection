@@ -1,0 +1,11 @@
+tensorflow
+keras
+streamlit
+opencv-python
+Pillow
+numpy
+matplotlib
+scikit-learn
+pickle5
+protobuf
+ipython
