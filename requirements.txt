@@ -6,6 +6,5 @@ Pillow
 numpy
 matplotlib
 scikit-learn
-pickle5
 protobuf
 ipython
