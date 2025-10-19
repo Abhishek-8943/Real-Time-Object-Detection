@@ -1,11 +1,14 @@
+streamlit
 tensorflow
 keras
-streamlit
-opencv-python
+opencv-python-headless
 Pillow
 numpy
 matplotlib
 scikit-learn
 protobuf
 ipython
-pickle
+rich
+markdown-it-py
+pygments
+mdurl
